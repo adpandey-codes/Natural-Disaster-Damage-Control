@@ -1,0 +1,304 @@
+{
+  "dataset": [
+    {
+      "instruction": "What are the major flooding events in India over the past 20 years?",
+      "context": "Major floods in India over the last two decades include the 2004 Indian Ocean Tsunami/floods, 2005 Mumbai floods, 2013 Uttarakhand flash floods, 2014 Jammu & Kashmir floods, 2015 Chennai floods, 2018 Kerala floods, and the 2023 North India monsoon floods.",
+      "response": "Significant Indian flood events in the last two decades include:\n- **2005 Mumbai Floods**: Record breaking rainfall caused urban flooding.\n- **2013 Uttarakhand Floods**: Cloudbursts caused devastating flash floods.\n- **2014 J&K Floods**: Severe flooding in Srinagar and surrounding areas.\n- **2015 Chennai Floods**: Extremely heavy rainfall flooded Chennai city.\n- **2018 Kerala Floods**: Worst flooding in Kerala in nearly a century.\n- **2023 North India Floods**: Heavy monsoon rains led to severe flooding across Himachal Pradesh, Uttarakhand, and Delhi."
+    },
+    {
+      "instruction": "Tell me about the 2018 Kerala Floods.",
+      "context": "In August 2018, Kerala experienced severe flooding due to unusually high rainfall during the monsoon season. Over 480 people lost their lives, and hundreds of thousands were displaced across all 14 districts.",
+      "response": "The August 2018 Kerala Floods were caused by unusually high monsoon rainfall. Over 480 people died, and more than a million were evacuated to rescue camps. All 14 districts of the state were placed on high alert, making it one of the worst flood disasters in the state's history."
+    },
+    {
+      "instruction": "What caused the 2013 Uttarakhand flash floods?",
+      "context": "In June 2013, Uttarakhand experienced severe cloudbursts that led to massive flash floods and landslides along the Kedarnath and Mandakini river valleys, resulting in over 5,700 deaths.",
+      "response": "The June 2013 Uttarakhand disaster was triggered by multi-day cloudbursts and glacial lake outbursts. This caused massive flash floods and landslides along the Kedarnath valley, killing over 5,700 people and destroying heavy infrastructure."
+    },
+    {
+      "instruction": "What natural calamities occurred globally in the last two decades?",
+      "context": "Major global natural calamities since 2004 include the 2004 Indian Ocean Tsunami, 2005 Hurricane Katrina (USA), 2010 Haiti Earthquake, 2011 Tohoku Earthquake and Tsunami (Japan), 2020 Australian Bushfires, and the 2023 Turkey-Syria Earthquakes.",
+      "response": "Key global natural calamities over the last 20 years include:\n- **2004 Indian Ocean Tsunami**: Devastated coastal areas across South/Southeast Asia.\n- **2005 Hurricane Katrina**: Caused massive flooding in New Orleans, USA.\n- **2010 Haiti Earthquake**: Magnitude 7.0 quake causing widespread destruction.\n- **2011 Tohoku Tsunami & Earthquake**: Triggered the Fukushima nuclear disaster in Japan.\n- **2023 Turkey-Syria Earthquakes**: Devastating magnitude 7.8 and 7.5 quakes."
+    },
+    {
+      "instruction": "What precautions should be taken during a flood?",
+      "context": "Flood safety precautions: Move to higher ground, avoid walking or driving through moving water, stay tuned to local emergency broadcasts, disconnect electrical utilities if instructed, and keep an emergency kit ready.",
+      "response": "Essential flood safety measures:\n1. **Evacuate to Higher Ground**: Immediately move to elevated areas or designated shelters.\n2. **Never Cross Moving Water**: Avoid driving, walking, or swimming through floodwaters—as little as 6 inches of moving water can knock you down.\n3. **Shut Off Utilities**: Turn off the main electrical breaker and gas supply before evacuating to prevent fire hazards and electrocution.\n4. **Keep an Emergency Go-Bag Ready**: Pack clean drinking water, non-perishable food, prescription medicines, flashlights, a power bank, and vital documents in a waterproof bag.\n5. **Monitor Official Broadcasts**: Rely strictly on updates from official weather and disaster management authorities."
+    },
+    {
+      "instruction": "Tell me about the 2004 Indian Ocean Tsunami.",
+      "context": "On December 26, 2004, a 9.1 magnitude undersea earthquake off Sumatra, Indonesia triggered a massive tsunami across the Indian Ocean, killing over 227,000 people in 14 countries including India, Sri Lanka, and Thailand.",
+      "response": "The 2004 Indian Ocean Tsunami was triggered by a 9.1 magnitude undersea earthquake off Sumatra, Indonesia. Waves up to 30 meters high struck coastal regions across South and Southeast Asia, killing over 227,000 people and causing massive destruction in Indonesia, Sri Lanka, India, and Thailand."
+    },
+    {
+      "instruction": "What happened during the 2005 Mumbai Floods?",
+      "context": "On July 26, 2005, Mumbai received 944 mm of rainfall in 24 hours, bringing the metropolis to a standstill. Over 1,000 people died, and major transport infrastructure collapsed due to severe waterlogging.",
+      "response": "On July 26, 2005, Mumbai experienced catastrophic flooding after receiving 944 mm (37.1 inches) of rain in a single 24-hour period. Over 1,000 lives were lost, the local train system failed, flights were grounded, and thousands were stranded across the city."
+    },
+    {
+      "instruction": "What were the 2015 Chennai Floods?",
+      "context": "In November-December 2015, record North-East monsoon rainfall caused catastrophic flooding in Chennai and Tamil Nadu, leading to over 500 deaths and economic losses exceeding $3 billion.",
+      "response": "The 2015 Chennai Floods were caused by record breaking North-East monsoon rainfall in November and December. More than 500 people lost their lives, the airport and railway stations were submerged, and total damages exceeded $3 billion."
+    },
+    {
+      "instruction": "Tell me about the 2014 Jammu and Kashmir Floods.",
+      "context": "In September 2014, torrential rains caused severe flooding of the Jhelum river, submerging major parts of Srinagar and surrounding districts, killing over 500 people in India and Pakistan.",
+      "response": "In September 2014, Jammu and Kashmir faced severe floods due to continuous monsoon rainfall causing the Jhelum River to breach its banks. Over 500 people died across the region, and Srinagar remained submerged for over two weeks."
+    },
+    {
+      "instruction": "What happened during Cyclone Hudhud in 2014?",
+      "context": "Cyclone Hudhud hit Visakhapatnam, Andhra Pradesh in October 2014 as a Very Severe Cyclonic Storm with winds up to 185 km/h, causing widespread damage to infrastructure.",
+      "response": "Cyclone Hudhud made landfall near Visakhapatnam (Vizag), Andhra Pradesh on October 12, 2014. Packing wind speeds of 185 km/h, it caused extensive damage to the port city's power lines, trees, and buildings, causing over $3.4 billion in losses."
+    },
+    {
+      "instruction": "Tell me about Cyclone Fani in 2019.",
+      "context": "Cyclone Fani made landfall in Odisha in May 2019 as an Extremely Severe Cyclonic Storm with wind speeds up to 215 km/h. Effective evacuation of over 1.2 million people prevented major loss of life.",
+      "response": "Cyclone Fani hit the coast of Odisha in May 2019 with wind speeds reaching 215 km/h. It was considered a disaster management success because prompt state action evacuated over 1.2 million people into safe shelters within 24 hours, significantly reducing casualties."
+    },
+    {
+      "instruction": "What was the 2011 Tohoku Earthquake and Tsunami?",
+      "context": "On March 11, 2011, a 9.0 magnitude earthquake struck off the coast of Japan, triggering a massive tsunami and leading to the Fukushima Daiichi nuclear power plant meltdown.",
+      "response": "The March 2011 Tohoku disaster in Japan involved a 9.0 magnitude earthquake followed by a powerful tsunami. Over 18,000 people died or went missing, and tsunami waves damaged the Fukushima Daiichi Nuclear Power Plant, causing a level 7 nuclear meltdown."
+    },
+    {
+      "instruction": "Tell me about the 2010 Haiti Earthquake.",
+      "context": "On January 12, 2010, a magnitude 7.0 earthquake struck Haiti near Port-au-Prince, causing widespread destruction and an estimated 160,000 to 220,000 deaths.",
+      "response": "The 2010 Haiti Earthquake was a catastrophic magnitude 7.0 quake centered near Port-au-Prince on January 12, 2010. It destroyed key government infrastructure and residential areas, leading to over 200,000 fatalities and displacing millions."
+    },
+    {
+      "instruction": "What happened in the 2023 Turkey-Syria Earthquakes?",
+      "context": "In February 2023, two powerful earthquakes of magnitude 7.8 and 7.5 struck southern Turkey and northern Syria, resulting in over 59,000 deaths and widespread destruction.",
+      "response": "On February 6, 2023, a magnitude 7.8 earthquake followed by a 7.5 aftershock devastated southern Turkey and northern Syria. The calamity claimed over 59,000 lives and destroyed hundreds of thousands of buildings across both nations."
+    },
+    {
+      "instruction": "What caused the 2021 Chamoli Glacial Outburst in Uttarakhand?",
+      "context": "In February 2021, a portion of the Nanda Devi glacier broke off in Uttarakhand's Chamoli district, triggering a flash flood in the Rishiganga and Dhauliganga rivers and destroying the Tapovan Hydroelectric Project.",
+      "response": "The February 2021 Chamoli disaster was caused by a large rock and ice avalanche from the Nanda Devi glacier. This caused flash floods along the Rishiganga and Dhauliganga rivers, destroying the Tapovan Vishnugad Hydropower Plant and killing over 200 workers."
+    },
+    {
+      "instruction": "What were the 2020 Assam Floods?",
+      "context": "In mid-2020, heavy monsoon rains flooded large areas of Assam, affecting over 5 million people and submerging 85% of Kaziranga National Park.",
+      "response": "The 2020 Assam Floods affected over 5 million people across 30 districts during the COVID-19 pandemic. Over 100 people died, and nearly 85% of Kaziranga National Park was submerged, severely affecting wildlife including the one-horned rhinoceros."
+    },
+    {
+      "instruction": "What safety precautions should be taken before an earthquake?",
+      "context": "Earthquake safety precautions: Secure heavy furniture to walls, create an emergency contact plan, prepare a emergency preparedness kit, and identify safe spots under sturdy tables or desks.",
+      "response": "Key earthquake safety preparations include:\n1. **Anchor Heavy Objects**: Secure heavy furniture, bookshelves, water heaters, and wall hangings to wall studs using brackets or straps.\n2. **Identify Safe Cover Spots**: Pre-identify safe spots in every room under sturdy furniture (like heavy desks) or against interior walls away from glass windows.\n3. **Prepare an Emergency Disaster Kit**: Maintain a kit containing water (1 gallon per person per day), non-perishable food, first-aid items, a flashlight, whistle, and spare batteries.\n4. **Establish a Family Emergency Plan**: Agree on an out-of-town emergency contact and designate a clear post-disaster meeting spot."
+    },
+    {
+      "instruction": "What should you do during an earthquake?",
+      "context": "During an earthquake: Drop, Cover, and Hold On. Stay indoors away from glass and outer walls until shaking stops. If outside, move to an open area away from trees and power lines.",
+      "response": "During an earthquake, follow these immediate actions:\n- **Drop**: Drop onto your hands and knees to prevent being knocked over.\n- **Cover**: Cover your head and neck under a sturdy table or desk. If no shelter is nearby, cover your head with your arms against an interior wall.\n- **Hold On**: Hold on to your shelter until all shaking stops entirely.\n- **If Outdoors**: Move immediately to an open area away from buildings, trees, streetlights, and power lines, then drop to the ground."
+    },
+    {
+      "instruction": "What is NDMA and what is its role in India?",
+      "context": "The National Disaster Management Authority (NDMA) is the apex statutory body for disaster management in India, headed by the Prime Minister. It lays down policies, plans, and guidelines for disaster response and mitigation.",
+      "response": "The **National Disaster Management Authority (NDMA)** is India's apex body for disaster management, established under the Disaster Management Act of 2005. Headed by the Prime Minister of India, NDMA formulates policies, coordinates relief efforts, and lays down guidelines for disaster preparedness and response."
+    },
+    {
+      "instruction": "What is the role of NDRF during disasters in India?",
+      "context": "The National Disaster Response Force (NDRF) is a specialized force constituted for the purpose of specialist response to a threatening disaster situation or disaster in India.",
+      "response": "The **National Disaster Response Force (NDRF)** is a specialized Indian force trained for emergency disaster response. They conduct swift search and rescue operations, clear debris, evacuate trapped victims, and distribute emergency aid during floods, cyclones, and earthquakes."
+    },
+    {
+      "instruction": "What is a cloudburst?",
+      "context": "A cloudburst is an extreme precipitation event where a large amount of rain falls over a small area in a short duration, typically defined as rainfall equal to or exceeding 100 mm per hour over a 20-30 sq km area.",
+      "response": "A **cloudburst** is an intense, localized precipitation event. Meteorologically, it is defined as rainfall exceeding **100 mm (3.9 inches) per hour** over an area of roughly 20 to 30 square kilometers. Cloudbursts frequently cause flash floods and mudslides in mountainous regions."
+    },
+    {
+      "instruction": "What is the difference between a flood and a flash flood?",
+      "context": "Regular floods develop slowly over days as rivers overflow their banks. Flash floods occur within hours or minutes of heavy rainfall, cloudbursts, or dam breaches, moving at high velocity.",
+      "response": "Key differences:\n- **Flood**: Develops gradually over days due to prolonged rain or river overflow, giving communities time to evacuate.\n- **Flash Flood**: Occurs rapidly within 3 to 6 hours (or even minutes) of a intense rainstorm, cloudburst, or dam break. They carry high-velocity water, debris, and rocks with little advance warning."
+    },
+    {
+      "instruction": "Tell me about Cyclone Amphan in 2020.",
+      "context": "In May 2020, Super Cyclonic Storm Amphan struck West Bengal and Bangladesh, causing widespread destruction and becoming the costliest cyclone recorded in the North Indian Ocean.",
+      "response": "Cyclone Amphan struck West Bengal, Kolkata, and Bangladesh in May 2020 as a Super Cyclone with wind speeds up to 260 km/h. It resulted in over 120 deaths and caused more than $13 billion in economic damages, devastating mangrove ecosystems in the Sundarbans."
+    },
+    {
+      "instruction": "What were the 2022 Pakistan Floods?",
+      "context": "In mid-2022, extreme monsoon rainfall and melting glaciers flooded one-third of Pakistan, affecting over 33 million people and causing over $30 billion in damage.",
+      "response": "From June to October 2022, unprecedented monsoon rains and glacial melt submerged **one-third of Pakistan**. Over 1,700 people died, 33 million were displaced, and damages exceeded $30 billion, making it one of the costliest climate disasters in history."
+    },
+    {
+      "instruction": "What safety measures should be followed during a cyclone?",
+      "context": "Cyclone safety measures: Secure loose outdoor items, stay indoors in reinforced shelter, avoid electrical connections during storm, keep emergency radio on, and do not venture near coastal areas.",
+      "response": "During a cyclone warning:\n1. **Secure Outdoor Hazards**: Fasten loose roof sheets and move loose outdoor items indoors to avoid flying debris.\n2. **Stay Indoors**: Retreat to the safest, central room of your home away from glass windows and exterior walls.\n3. **Turn Off Electrical Main Switch**: Unplug electrical appliances and turn off mains to prevent short circuits and fire hazards.\n4. **Stock Up Supplies**: Maintain an emergency kit with clean drinking water, medical supplies, flashlights, and non-perishable food.\n5. **Avoid Coastal Areas**: Stay completely away from ocean shores, riverbanks, and storm surge zones."
+    },
+    {
+      "instruction": "What was the 2005 Kashmir Earthquake?",
+      "context": "On October 8, 2005, a 7.6 magnitude earthquake struck Azad Kashmir and parts of Khyber Pakhtunkhwa, Pakistan, and Jammu & Kashmir, India, killing over 86,000 people.",
+      "response": "The October 8, 2005 Kashmir Earthquake registered a magnitude of 7.6. Centered in Pakistan-administered Kashmir near Muzaffarabad, it devastated mountainous regions across Pakistan and northern India, causing over 86,000 fatalities and leaving millions homeless."
+    },
+    {
+      "instruction": "Tell me about the 2020 Australian Bushfires.",
+      "context": "The 2019-2020 Black Summer bushfires in Australia burned over 24 million hectares, destroyed thousands of homes, and killed or displaced nearly 3 billion animals.",
+      "response": "The 'Black Summer' bushfires of 2019-2020 burned over 24 million hectares across Australia. The catastrophic fires destroyed over 3,000 homes, killed 33 people directly, and killed or displaced an estimated **3 billion animals**, including koalas and kangaroos."
+    },
+    {
+      "instruction": "What causes heatwaves and how to stay safe?",
+      "context": "Heatwaves are prolonged periods of excessively hot weather. Safety tips include staying hydrated, avoiding direct sun between 12 PM and 4 PM, wearing lightweight clothing, and checking on vulnerable individuals.",
+      "response": "A **heatwave** is an extended period of abnormally high temperatures.\n\n**Safety Guidelines**:\n- Hydrate regularly with water, ORS, or natural electrolytes (e.g., coconut water) even if you don't feel thirsty.\n- Avoid direct sunlight exposure between 12:00 PM and 4:00 PM.\n- Wear loose-fitting, light-colored, and breathable cotton clothing along with protective headgear or sunglasses.\n- Never leave children, elderly individuals, or pets unattended in parked vehicles, as temperatures rise rapidly."
+    },
+    {
+      "instruction": "What happened during the 2023 Himachal Pradesh Floods?",
+      "context": "In July 2023, cloudbursts and heavy monsoon rainfall caused severe landslides and flash floods along the Beas river in Himachal Pradesh, destroying roads and bridges in Manali and Mandi.",
+      "response": "In July 2023, Himachal Pradesh experienced catastrophic flash flooding along the Beas River basin. Cloudbursts destroyed critical highways connecting Mandi, Kullu, and Manali, washing away hotels, bridges, and infrastructure with over 700 road blockages."
+    },
+    {
+      "instruction": "What precautions should be taken after a flood recedes?",
+      "context": "Post-flood precautions: Boil drinking water, avoid contact with stagnant water, inspect structural damage before re-entering homes, and watch for waterborne diseases like cholera and dengue.",
+      "response": "Post-flood health and safety steps:\n1. **Purify Drinking Water**: Boil water for at least 1 minute or use purification tablets to prevent waterborne infections like cholera, typhoid, and dysentery.\n2. **Avoid Stagnant Water**: Do not wade through standing water to prevent vector-borne diseases (dengue, malaria) and bacterial infections like leptospirosis.\n3. **Inspect Structural Safety**: Do not re-enter buildings until authorized officials certify the structure and electrical wiring are safe.\n4. **Disinfect Affected Areas**: Clean and disinfect all surfaces, mud, and flooded items thoroughly before reuse."
+    },
+    {
+      "instruction": "What safety precautions should be taken during a landslide?",
+      "context": "Landslide precautions: Stay alert to unusual sounds like cracking trees, move quickly away from the slide path, evacuate if advised, and avoid river channels or valleys during heavy rain.",
+      "response": "Key landslide safety measures:\n1. **Recognize Warning Signs**: Watch for tilted trees, sudden water flow changes in streams, or unusual cracking sounds in hilly terrain.\n2. **Evacuate the Slide Path**: Move immediately away from slopes, river valleys, and ravines perpendicular to the direction of the flow.\n3. **Protect Yourself**: If escape is impossible, curl into a tight ball and protect your head with your hands.\n4. **Stay Away Post-Slide**: Do not enter damaged areas as secondary landslides frequently occur."
+    },
+    {
+      "instruction": "What safety measures should be taken during a tsunami warning?",
+      "context": "Tsunami precautions: Move inland to high ground immediately upon receiving an warning or feeling coastal tremors, do not visit the beach to watch waves, and await official all-clear signals.",
+      "response": "Tsunami safety guidelines:\n1. **Move Inland & Uphill**: If you feel strong tremors near a coast or hear a tsunami alarm, move inland to ground at least 100 feet (30 meters) above sea level immediately.\n2. **Ignore Curiosity**: Never go to the shore to observe waves; if you can see a tsunami wave, you are already too close to escape.\n3. **Wait for Official Clearance**: Tsunamis occur in a series of waves over hours—do not return to coastal areas until local authorities issue an official all-clear."
+    },
+    {
+      "instruction": "What precautions should be followed to prevent urban flooding?",
+      "context": "Urban flood prevention precautions: Ensure local drainage systems are clear of trash, avoid building in floodplains, construct rainwater harvesting systems, and install flood barriers.",
+      "response": "Urban flood mitigation and safety steps:\n1. **Keep Drains Unblocked**: Never dispose of plastic or garbage in storm drains, as clogging is the primary cause of urban waterlogging.\n2. **Install Check Valves**: Fit backflow valves on home plumbing systems to prevent sewage from backing up during heavy rain.\n3. **Elevate Electrical Panels**: Raise sockets, breaker boxes, and essential appliances above expected flood levels.\n4. **Harvest Rainwater**: Use rainwater retention structures to slow runoff into city stormwater networks."
+    },
+    {
+      "instruction": "What precautions should be taken during a severe thunderstorm with lightning?",
+      "context": "Lightning safety precautions: Seek shelter inside a substantial building or hard-topped vehicle, stay away from trees, avoid water bodies, and unplug electronic equipment.",
+      "response": "Thunderstorm and lightning safety precautions:\n1. **Seek Immediate Enclosed Shelter**: Take shelter inside a fully enclosed building or a hard-topped metal vehicle.\n2. **Avoid Open Areas & Tall Objects**: Never stand under tall trees, near metal poles, or in open fields during a storm.\n3. **Stay Away from Water**: Exit swimming pools, lakes, or open water immediately as water is a strong electrical conductor.\n4. **Disconnect Electronics**: Unplug desktop computers, televisions, and electrical devices to prevent surge damage."
+    },
+    {
+      "instruction": "How to prepare an Emergency Disaster Kit (Go-Bag)?",
+      "context": "Emergency kit essentials: Water, non-perishable food, flashlight, first aid kit, whistle, power bank, battery radio, copies of personal documents, and personal hygiene items.",
+      "response": "Key items for a home Emergency Go-Bag:\n1. **Water & Food**: 3-day supply of sealed drinking water (1 gallon/person/day) and ready-to-eat non-perishable food.\n2. **Medical & Sanitation**: Complete first-aid kit, essential prescription drugs, wet wipes, and hand sanitizer.\n3. **Communication & Light**: Battery-operated radio, LED flashlights, extra batteries, and a fully charged power bank.\n4. **Tools & Personal Items**: Emergency whistle, multi-tool knife, waterproof pouch with copies of identity documents, and emergency cash."
+    },
+    {
+      "instruction": "What precautions should be taken during a chemical disaster or industrial gas leak?",
+      "context": "Chemical hazard safety: Cover nose and mouth with a wet cloth, move upwind from the leak, stay indoors with sealed windows, and follow civil defense directives.",
+      "response": "Safety steps during an industrial chemical leak:\n1. **Evacuate Upwind**: Move perpendicular or upwind relative to the direction of the wind to avoid inhaling toxic plumes.\n2. **Cover Respiratory Tract**: Place a wet cloth or mask over your mouth and nose to filter out airborne chemicals.\n3. **Shelter in Place**: If evacuation is unsafe, go indoors, close all doors and windows, and turn off AC units and ventilation systems.\n4. **Decontaminate**: Once safe, strip off contaminated clothing and wash your skin thoroughly with mild soap and water."
+    },
+    {
+      "instruction": "What safety precautions should be followed during a severe cold wave?",
+      "context": "Cold wave safety precautions: Dress in multiple layers, stay dry, insulate living areas, watch for symptoms of frostbite and hypothermia, and avoid alcohol consumption.",
+      "response": "Cold wave safety precautions:\n1. **Dress in Thermal Layers**: Wear multiple layers of loose, lightweight clothing rather than a single thick coat to trap heat.\n2. **Keep Warm and Dry**: Protect extremities with gloves, insulated boots, and woolen caps; change wet clothes immediately.\n3. **Recognize Hypothermia Signs**: Watch for severe shivering, slurred speech, or numbness, and seek medical attention promptly.\n4. **Avoid Alcohol**: Do not consume alcohol to warm up, as it dilates blood vessels and accelerates body heat loss."
+    },
+    {
+      "instruction": "What steps should be taken to prevent dam breach disasters?",
+      "context": "Dam safety measures: Continuous structural monitoring, early warning systems for downstream residents, controlled reservoir desilting, and pre-planned evacuation drills.",
+      "response": "Essential dam safety and downstream precautions:\n1. **Early Warning Integration**: Install automated water level sensors and sirens to alert downstream populations before emergency water releases.\n2. **Routine Maintenance**: Conduct structural safety audits, spillway inspections, and desilting of reservoirs prior to monsoon seasons.\n3. **Evacuation Readiness**: Practice regular emergency evacuation drills with coastal and riverside communities.\n4. **Restrict Inundation Zones**: Prohibit residential construction in designated floodplain and downstream spillway paths."
+    },
+    {
+      "instruction": "What should you do if stuck in a building fire?",
+      "context": "Fire safety rules: Stay low under smoke, feel doors for heat before opening, use stairs instead of elevators, stop drop and roll if clothes catch fire, and call emergency services.",
+      "response": "Building fire safety guidelines:\n1. **Crawl Low Under Smoke**: Smoke rises; stay close to the floor where the air is cooler and cleaner.\n2. **Check Doors Before Opening**: Use the back of your hand to feel doors—if warm, do not open; find an alternative exit.\n3. **Never Use Elevators**: Always use designated fire escape stairwells to evacuate the building.\n4. **Stop, Drop, and Roll**: If your clothes catch fire, stop moving immediately, drop to the ground, and roll until the flames are out."
+    },
+    {
+      "instruction": "What safety precautions should be taken before a wildfire reaches your area?",
+      "context": "Wildfire preparation precautions: Clear defensible space around homes, remove dead vegetation, seal windows and vents, prepare an evacuation kit, and monitor fire updates.",
+      "response": "Wildfire safety preparations:\n1. **Create Defensible Space**: Clear dry leaves, brush, and flammable debris within 30 feet of your house.\n2. **Seal House Openings**: Close all windows, vents, and doors to prevent burning embers from entering your home.\n3. **Pre-pack Vehicles**: Park your car facing outward in the driveway with windows up and the emergency kit pre-loaded.\n4. **Evacuate Early**: Leave as soon as evacuation warnings are issued by local authorities without waiting for mandatory orders."
+    },
+    {
+      "instruction": "What safety precautions should be taken during a nuclear or radiological emergency?",
+      "context": "Nuclear emergency safety: Practice shelter-in-place, close all windows and ventilation systems, tune in to official government updates, and take potassium iodide tablets if instructed by public health authorities.",
+      "response": "Nuclear and radiological disaster precautions:\n1. **Shelter in Place**: Immediately go inside a concrete or brick building and stay away from exterior walls and roofs.\n2. **Seal Air Entry Points**: Turn off air conditioners, ventilation fans, and seal doors and windows with plastic sheeting and tape.\n3. **Follow Official Health Directives**: Take Potassium Iodide (KI) tablets only when explicitly instructed by government health authorities.\n4. **Decontaminate Safely**: If exposed outdoors, remove outer clothing, seal it in a plastic bag, and shower gently with soap and warm water."
+    },
+    {
+      "instruction": "What steps should be taken during a severe dust storm or haboob?",
+      "context": "Dust storm precautions: Pull over safely if driving, stay indoors with windows closed, wear an N95 mask or wet cloth over your nose and mouth, and protect your eyes.",
+      "response": "Essential dust storm safety measures:\n1. **Pull Off the Road Immediately**: If driving, pull completely off the roadway, turn off lights, set the emergency brake, and keep your foot off the brake pedal.\n2. **Stay Indoors**: Seek cover inside a secure building and keep all windows, doors, and vents shut.\n3. **Protect Respiratory Tract & Eyes**: Use an N95 mask or a damp cloth over your face and wear protective goggles if you must step outside.\n4. **Turn Off Air Circulation**: Switch home or vehicle air conditioning to internal recirculation mode to prevent dust intake."
+    },
+    {
+      "instruction": "What safety precautions should be followed during a volcanic eruption?",
+      "context": "Volcanic safety precautions: Follow local evacuation orders immediately, protect against volcanic ash with masks and goggles, stay away from low-lying river valleys subject to mudflows (lahars), and keep skin covered.",
+      "response": "Safety measures during a volcanic event:\n1. **Evacuate the Hazard Zone**: Evacuate immediately if instructed by civil defense authorities; avoid downwind areas.\n2. **Avoid River Valleys**: Move to high ground to stay clear of lahars (volcanic mudflows) and fast-moving pyroclastic flows.\n3. **Protect Against Volcanic Ash**: Wear protective goggles, long clothing, and an N95 mask to avoid breathing in abrasive glass and mineral particles.\n4. **Stay Indoors During Ashfall**: Keep doors and windows closed to prevent heavy ash accumulation inside homes."
+    },
+    {
+      "instruction": "What safety precautions should be taken during an infectious disease outbreak or pandemic?",
+      "context": "Pandemic precautions: Maintain hand hygiene, wear recommended face masks, practice social distancing, keep living spaces ventilated, and follow isolation protocols when symptomatic.",
+      "response": "Safety protocols during a public health outbreak:\n1. **Maintain Strict Hand Hygiene**: Wash hands frequently with soap and water for at least 20 seconds or use a 60%+ alcohol hand sanitizer.\n2. **Use Protective Face Coverings**: Wear well-fitting masks in crowded or indoor public spaces to prevent respiratory transmission.\n3. **Isolate When Unwell**: Stay home and isolate from household members immediately upon developing contagious symptoms.\n4. **Ensure Indoor Ventilation**: Keep windows open or use air filtration units to maintain fresh airflow in shared spaces."
+    },
+    {
+      "instruction": "What should you do if stuck in a stampede or dense crowd control emergency?",
+      "context": "Stampede safety precautions: Keep your feet on the ground, fold arms across your chest to protect lungs, move diagonally with the crowd flow, and avoid standing against walls or barriers.",
+      "response": "Safety precautions for crowd surge and stampede emergencies:\n1. **Protect Your Chest**: Keep your elbows bent and hands folded in front of your chest to create breathing space and safeguard your lungs.\n2. **Move Diagonally**: Walk with the flow of the crowd while gradually moving diagonally toward the edges or exits.\n3. **Stay on Your Feet**: Keep a stable footing; if you drop something, do not bend down to pick it up.\n4. **Avoid Dead Ends**: Stay away from solid structures like walls, fences, and barricades where crowd pressure accumulates."
+    },
+    {
+      "instruction": "What safety measures should be followed during a severe winter blizzard?",
+      "context": "Blizzard safety precautions: Stay indoors, maintain alternative safe heating sources, stock extra fuel and non-perishable food, and avoid driving unless absolutely critical.",
+      "response": "Blizzard safety precautions:\n1. **Avoid Travel**: Stay off the roads; if stranded in a vehicle, stay inside, turn on hazard lights, and run the engine for 10 minutes per hour for heat.\n2. **Prevent Carbon Monoxide Poisoning**: Ensure generators, heating stoves, and vehicle exhaust pipes are clear of snow and ventilated outdoors.\n3. **Conserve Body Warmth**: Gather in a single central room, close unnecessary doors, and cover windows with blankets.\n4. **Keep Water Supplies Flowing**: Allow indoor faucets to drip slightly to prevent pipes from freezing and bursting."
+    },
+    {
+      "instruction": "What safety precautions should be taken during a sinkhole collapse?",
+      "context": "Sinkhole safety precautions: Evacuate the perimeter immediately, report cracking pavement or soil sinking to authorities, avoid utility lines, and do not throw debris into the hole.",
+      "response": "Safety measures during sinkhole events:\n1. **Evacuate the Perimeter**: Step back immediately from expanding cracks, sagging ground, or sinking foundations.\n2. **Secure the Area**: Fence off or block access to the sinkhole area to prevent people or pets from falling in.\n3. **Notify Emergency Services**: Report the collapse to emergency responders and local utility companies immediately.\n4. **Avoid Utility Hazards**: Stay away from exposed water pipes, gas lines, and underground electrical cables."
+    },
+    {
+      "instruction": "What steps should be taken to stay safe during a severe drought?",
+      "context": "Drought safety measures: Practice water conservation, harvest rainwater, protect topsoil from erosion, avoid open fire activities, and ensure safe drinking water storage.",
+      "response": "Key drought safety and mitigation practices:\n1. **Conserve Potable Water**: Reuse greywater for non-drinking tasks and fix household plumbing leaks promptly.\n2. **Mitigate Fire Risks**: Avoid open burning, campfires, or agricultural field burning due to extremely dry vegetation.\n3. **Store Drinking Water Safely**: Keep stored water in clean, covered containers to prevent contamination and mosquito breeding.\n4. **Protect Crops and Soil**: Apply organic mulch on soil to retain moisture and limit soil degradation."
+    },
+    {
+      "instruction": "What precautions should be taken during a severe hail storm?",
+      "context": "Hailstorm precautions: Stay indoors away from skylights and windows, protect vehicles in covered parking, pull over safely if driving, and protect livestock.",
+      "response": "Safety measures during a severe hailstorm:\n1. **Seek Immediate Shelter**: Stay inside a sturdy building away from glass windows, skylights, and glass doors.\n2. **Safety While Driving**: Pull over under an overpass or covered area; face away from windows if glass breaks.\n3. **Protect Pets and Animals**: Bring livestock and pets into covered shelters or barns before the storm hits.\n4. **Avoid Touching Glass**: Stay clear of window panes as large hail can shatter glass inward with high force."
+    },
+    {
+      "instruction": "What safety precautions should be taken during an avalanche threat?",
+      "context": "Avalanche precautions: Carry safety gear like transceivers, probes, and shovels, stay on established trails, swim to stay atop the snow if caught, and create an air pocket.",
+      "response": "Safety precautions for avalanche hazard areas:\n1. **Carry Mandatory Rescue Gear**: Always travel with an avalanche beacon, probe, collapsible shovel, and airbag pack in high-risk terrain.\n2. **Try to Escape Side-to-Side**: If caught, move laterally to clear the main path of the sliding snow mass.\n3. **Swim on Top of the Snow**: Make swimming motions to stay near the surface of the moving snow slide.\n4. **Create a Head Air Pocket**: As the snow stops moving, place your hands in front of your face to form a breathing air pocket before the snow sets."
+    },
+    {
+      "instruction": "What precautions should be taken during an urban gas pipeline leak?",
+      "context": "Gas leak precautions: Do not switch on electrical lights or appliances, open windows if safe, evacuate the building immediately, and call the gas emergency helpline from outdoors.",
+      "response": "Safety steps for a residential or urban gas leak:\n1. **Avoid Ignition Sources**: Do not switch lights on or off, light matches, or use mobile phones inside the gas-affected building.\n2. **Evacuate Immediately**: Leave the premises on foot without delay and warn neighbors as you exit.\n3. **Shut Main Valve**: Turn off the main gas shut-off valve if it can be done safely without entering high-gas zones.\n4. **Call Emergency Services Outdoors**: Dial emergency responders and the gas utility helpline once you are at a safe distance."
+    },
+    {
+      "instruction": "What precautions should be taken against coastal erosion and storm surges?",
+      "context": "Coastal disaster precautions: Maintain natural mangrove buffers, construct seawalls, evacuate low-lying coastal zones during storm alerts, and avoid beachfront construction.",
+      "response": "Safety and mitigation measures for coastal hazards:\n1. **Protect Coastal Ecosystems**: Preserve mangroves, sand dunes, and coral reefs that serve as natural wave energy dissipators.\n2. **Evacuate Inundation Zones**: Relocate inland prior to cyclone or high tide alerts as storm surges cause rapid coastal inundation.\n3. **Build Raised Structures**: Construct homes on elevated stilts or elevated platforms in vulnerable coastal settlements.\n4. **Avoid Shoreline Construction**: Respect coastal regulation zones by keeping residential buildings at a safe distance from high-tide lines."
+    },
+    {
+      "instruction": "What safety steps should be taken during an electrical grid failure or blackout?",
+      "context": "Power outage precautions: Keep refrigerators closed, use LED flashlights instead of candles, disconnect sensitive appliances, and use generators only outdoors.",
+      "response": "Safety precautions during an extended power blackout:\n1. **Use LED Lights Instead of Candles**: Rely on battery-powered lanterns and flashlights to eliminate open-flame fire risks.\n2. **Protect Refrigerated Food**: Keep refrigerator and freezer doors closed to preserve food temperature for 24-48 hours.\n3. **Operate Generators Outdoors**: Place portable fuel generators at least 20 feet away from homes to prevent carbon monoxide poisoning.\n4. **Unplug Sensitive Appliances**: Disconnect computers, TVs, and electronics to prevent damage from power surges when electricity resets."
+    },
+    {
+      "instruction": "What precautions should be taken during a dam discharge alert downstream?",
+      "context": "Dam release precautions: Stay clear of riverbeds and low bridges, move livestock to higher terrain, heed emergency sirens, and suspend fishing or boating activities.",
+      "response": "Downstream safety measures during emergency dam water release:\n1. **Evacuate Riverbeds Immediately**: Leave riverbanks, dry channels, and low-lying river walkways right after hearing sirens.\n2. **Move Animals to Elevated Land**: Shift farm animals and equipment away from floodplain areas downstream of the dam.\n3. **Halt Water Activities**: Suspend all fishing, boating, and swimming operations along the river course.\n4. **Avoid Crossing Low Bridges**: Do not attempt to drive or walk across causeways that could be submerged by sudden water surges."
+    },
+    {
+      "instruction": "What safety precautions should be followed near active construction or demolition sites during a storm?",
+      "context": "Construction site safety in storms: Secure scaffolding, lower crane booms, stay clear of site perimeters, and secure loose building materials.",
+      "response": "Safety guidelines for construction zone hazards during severe weather:\n1. **Maintain Perimeter Distance**: Stay far away from site perimeters, scaffolding, and cranes during high-wind storms.\n2. **Lower and Secure Heavy Equipment**: Construction operators must lower crane booms and lock uninstalled roofing materials.\n3. **Watch for Falling Debris**: Wear safety helmets near site boundaries and watch for flying metal sheets, glass, or timber.\n4. **Inspect Trenches After Heavy Rain**: Do not enter excavated trenches until structural stability is confirmed following rain events."
+    },
+    {
+      "instruction": "What precautions should be taken during an oil spill emergency near coastal regions?",
+      "context": "Oil spill precautions: Avoid contact with contaminated water and beach sand, do not consume local seafood until cleared, report oiled wildlife, and wear protective gear during cleanup.",
+      "response": "Safety and environmental precautions during an offshore or coastal oil spill:\n1. **Avoid Direct Physical Contact**: Stay away from oil-slicked beaches, rocky shores, and contaminated water to prevent skin irritation.\n2. **Refrain from Consuming Local Seafood**: Avoid eating fish or shellfish harvested from affected marine zones until cleared by health officers.\n3. **Report Harmed Wildlife**: Do not attempt to clean oiled birds or marine animals without professional training; contact wildlife rescue teams.\n4. **Wear Chemical-Resistant Protective Gear**: Specialized responders must wear impermeable suits, gloves, and respirators during beach cleanup."
+    },
+    {
+      "instruction": "What safety precautions should be taken during a bridge or structural collapse warning?",
+      "context": "Structural collapse precautions: Vacate the structure immediately upon hearing creaking, avoid standing under overhangs, call emergency services, and clear access roads for rescuers.",
+      "response": "Precautions for structural collapse emergencies:\n1. **Vacate Immediately**: Exit buildings or bridges without delay if you hear deep cracking, grinding, or notice rapid wall fissures.\n2. **Do Not Stand Under Structural Overhangs**: Move clear of balconies, awnings, and unreinforced masonry walls that could fall outward.\n3. **Avoid Using Corridors with Debris**: Use marked emergency exit staircases and clear obstacles out of rescue pathways.\n4. **Keep Surrounding Roads Clear**: Keep nearby streets free of parked vehicles to allow heavy machinery and ambulances prompt access."
+    },
+    {
+      "instruction": "What safety precautions should be taken during an industrial boiler explosion or blast?",
+      "context": "Boiler explosion safety: Drop to the ground to protect against shockwaves, cover head, move clear of flying shrapnel, and evacuate the industrial facility.",
+      "response": "Safety measures during an industrial blast or boiler accident:\n1. **Take Cover Against Shockwaves**: Drop to the floor under a heavy structure and cover your head and neck to protect against flying glass and metal.\n2. **Evacuate the Blast Zone**: Exit the plant using primary emergency escape routes once initial blast shockwaves pass.\n3. **Beware of Toxic Fumes**: Industrial explosions frequently release hazardous combustion gases; cover your face with a wet cloth while moving.\n4. **Report Missing Personnel**: Gather at designated assembly points outside the plant perimeter and account for all crew members."
+    },
+    {
+      "instruction": "What precautions should be followed during a localized forest fire threat?",
+      "context": "Forest fire safety: Monitor smoke plumes, clear leaf litter near homes, keep garden hoses connected, evacuate early via main roads, and protect animals.",
+      "response": "Safety guidelines for residents near forest boundaries during fire season:\n1. **Maintain Clear Perimeter Zones**: Remove fallen leaves, dry pine needles, and brush within 50 feet of residential structures.\n2. **Monitor Smoke Movement**: Pay close attention to wind shifts that can rapidly drive forest fires toward inhabited areas.\n3. **Prepare Evacuation Transport**: Keep vehicles fueled and backed into driveways for immediate exit via primary asphalt roads.\n4. **Evacuate Farm Animals Early**: Relocate livestock to cleared dirt arenas or non-forested zones before access roads are cut off by flames."
+    },
+    {
+      "instruction": "What precautions should be taken during a severe fog or smog event on highways?",
+      "context": "Fog and smog safety: Reduce driving speed, use low-beam headlights and fog lights, double the tailgating distance, and avoid sudden braking on highways.",
+      "response": "Highway safety precautions during severe fog or toxic smog:\n1. **Use Low-Beam or Fog Lights**: Never use high-beam headlights in dense fog, as the light reflects off moisture particles and impairs visibility.\n2. **Reduce Speed and Increase Gap**: Maintain a low speed and double your braking distance from the vehicle ahead.\n3. **Avoid Sudden Lane Changes**: Stay in your lane and use lane markings on the left or right edge of the road as a visual guide.\n4. **Pull Off Road Completely If Visibility drops to zero**: Park well outside driving lanes, turn on hazard lights, and switch off all main lights so trailing vehicles do not run into you."
+    }
+  ]
+}

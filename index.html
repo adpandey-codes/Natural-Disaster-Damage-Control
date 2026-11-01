@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Disaster Management & Safety Assistant</title>
+  <link rel="icon" href="image.png" />
+  <link rel="stylesheet" href="style.css" />
+  <!-- FontAwesome for Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+</head>
+<body>
+
+  <!-- Top Header / Banner -->
+  <header class="app-header">
+    <div class="header-container">
+      <h1><i class="fa-solid fa-shield-halved"></i> Safety & Disaster Response Assistant</h1>
+      <p>Interactive portal for disaster events, historical records, and NDMA safety precautions.</p>
+    </div>
+  </header>
+
+  <main class="main-container">
+    
+    <!-- Search Bar Section -->
+    <section class="search-section">
+      <div class="search-bar-wrapper">
+        <i class="fa-solid fa-magnifying-glass search-icon"></i>
+        <input type="text" id="searchInput" placeholder="Search any disaster, event, or safety guideline..." />
+        <button id="clearSearchBtn" class="clear-btn"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+    </section>
+
+    <!-- Category Filter Tabs -->
+    <section class="categories-nav">
+      <button class="category-btn active" data-category="all">
+        <i class="fa-solid fa-border-all"></i> All Topics
+      </button>
+      <button class="category-btn" data-category="floods">
+        <i class="fa-solid fa-house-tsunami"></i> Floods & Water
+      </button>
+      <button class="category-btn" data-category="earthquakes">
+        <i class="fa-solid fa-house-crack"></i> Earthquakes
+      </button>
+      <button class="category-btn" data-category="cyclones">
+        <i class="fa-solid fa-wind"></i> Cyclones & Storms
+      </button>
+      <button class="category-btn" data-category="extreme-weather">
+        <i class="fa-solid fa-temperature-high"></i> Extreme Weather
+      </button>
+      <button class="category-btn" data-category="safety">
+        <i class="fa-solid fa-kit-medical"></i> General Safety
+      </button>
+    </section>
+
+    <!-- Topic Card Grid -->
+    <section class="grid-section">
+      <div class="cards-grid" id="cardsGrid">
+        <!-- Cards dynamically injected via JavaScript -->
+      </div>
+      <div id="noResults" class="no-results hidden">
+        <i class="fa-regular fa-face-frown"></i>
+        <p>No matching disaster topics or precautions found. Try another search!</p>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Interactive Response Modal -->
+  <div class="modal-overlay hidden" id="modalOverlay">
+    <div class="modal-container">
+      <div class="modal-header">
+        <div class="modal-title-wrapper">
+          <span class="modal-badge" id="modalBadge">Category</span>
+          <h2 id="modalTitle">Question Title</h2>
+        </div>
+        <button class="close-modal-btn" id="closeModalBtn"><i class="fa-solid fa-xmark"></i></button>
+      </div>
+      <div class="modal-body">
+        <div class="context-box" id="modalContextWrapper">
+          <strong><i class="fa-solid fa-circle-info"></i> Summary Context:</strong>
+          <p id="modalContext">Context text here...</p>
+        </div>
+        <div class="response-box">
+          <strong><i class="fa-solid fa-list-check"></i> Detailed Response:</strong>
+          <div id="modalResponse">Response content here...</div>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button class="btn-secondary" id="copyBtn"><i class="fa-regular fa-copy"></i> Copy Information</button>
+        <button class="btn-primary" id="doneModalBtn">Done</button>
+      </div>
+    </div>
+  </div>
+  <!-- Floating AI Chatbot Button -->
+  <button id="aiChatToggleBtn" class="ai-chat-toggle">
+    <i class="fa-solid fa-robot"></i> Ask AI Assistant
+  </button>
+
+  <!-- AI Chatbot Drawer / Box -->
+  <div class="ai-chat-drawer hidden" id="aiChatDrawer">
+    <div class="chat-header">
+      <div class="chat-header-info">
+        <i class="fa-solid fa-brain"></i>
+        <div>
+          <h3>Disaster AI Assistant</h3>
+          <span class="status-online"><span class="dot"></span> Connected </span>
+        </div>
+      </div>
+      <button id="closeChatBtn" class="close-chat-btn"><i class="fa-solid fa-xmark"></i></button>
+    </div>
+
+    <!-- Messages Container -->
+    <div class="chat-messages" id="chatMessages">
+      <div class="chat-bubble bot-bubble">
+        Hello! I am your AI Disaster Assistant. Ask me anything about floods, earthquakes, safety precautions, or emergency protocols!
+      </div>
+    </div>
+
+    <!-- Input Bar -->
+    <div class="chat-input-area">
+      <input type="text" id="userChatInput" placeholder="Ask your AI bot a question..." />
+      <button id="sendChatBtn"><i class="fa-solid fa-paper-plane"></i></button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
